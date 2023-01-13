@@ -8,8 +8,8 @@ The schools concept relies on you teaching yourself by learning how to do resear
 Aim of this project was to get familiar with how the redirections and pipes work in a linux system. I needed to create a program which can run to bash commands, the first one would have a input redirection from a file and the second one would redirect the output to a file. Bonus part of the project required me to implement same program with an random amount of cmds between the first and last command. It also supports here_doc instead of the first input redirection.
 
 ## In this project I learned:
-  - How to use `pipe()'
-  - How to use `fork()'
+  - How to use `pipe()`
+  - How to use `fork()`
   - Working with `multiple processes`
   - What's the `PATH variable` in Linux and how to use it
   - How to use `execve()` to run binaries from a different program
