@@ -60,4 +60,4 @@ hello$$$
 there$$$
 ```
 
-_The `cat -e` command in the exmaples was used only for demonstration reasons, the progarmm can be used with any other commands from bash and it will behave in the proper way_
+_The `cat -e` command in the exmaples was used only for demonstration reasons, the progarmm can be used with any other commands from bash and it will behave in the proper way ❗_
